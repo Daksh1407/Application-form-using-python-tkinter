@@ -1,8 +1,6 @@
 # Application-form-using-python-tkinter
 ![registration form_interface](https://user-images.githubusercontent.com/102173748/207707106-46cc561f-e282-472d-a2e1-c100960ef8cd.png)
 
-![banner](https://user-images.githubusercontent.com/102173748/207707370-8ad7e4f1-80a7-4257-8b6f-9af91fff8b9c.jpg)
-
 An ordinary Python library is Tkinter. The quickest and simplest approach to create an object-oriented GUI application is with Python and the tkinter package.
 
 It offers us a number of standard GUI (graphical user interface) building blocks, such as buttons, menus, and other types of entry fields and display regions, that we may utilise to create our user interfaces.
